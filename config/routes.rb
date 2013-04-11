@@ -1,4 +1,12 @@
 Project2::Application.routes.draw do
+  get "static_pages/home"
+
+  get "static_pages/resume"
+
+  get "static_pages/projects"
+
+  get "static_pages/hobbies"
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
