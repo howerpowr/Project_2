@@ -1,11 +1,9 @@
 Project2::Application.routes.draw do
-  get "static_pages/home"
+  root to: 'static_pages#home'
 
-  get "static_pages/resume"
-
-  get "static_pages/projects"
-
-  get "static_pages/hobbies"
-
+  match '/hobbies',    to: 'static_pages#hobbies'
+  match '/projects',   to: 'static_pages#projects'
+  match '/contact', to: 'static_pages#contact'
+  match '/resume', to: 'static_pages#resume'
   
 end

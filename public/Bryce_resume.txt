@@ -1,0 +1,40 @@
+Bryce Hower
+5655 UTSA Blvd. Apt. 812
+832-671-5750, bau099@my.utsa.edu
+Summary of Qualifications:
+_
+A senior undergraduate in Electrical Engineering, specializing in digital systems design.
+Education:
+The University of Texas at San Antonio
+Bachelor of Science in Electrical Engineering
+GPA 3.26
+_
+San Antonio, Texas
+Projected Graduation, May 2013
+Engineering Projects:
+_
+Lab II: Design and i mplementation of a bandpass filter and Class AB amplifier. Design process
+included CAD design, prototype testing, printed circuit board design and finally construction onto a
+PCB.
+Signals and Systems: Programmed an image encryption/decryption platform in Matlab that
+generates a random encryption key to create a unique encryption in the Fourier domain that is
+then to be used later for decryption.
+Circuits II: Developed a code for Arduino to interface with an analog design containing a
+photoresistor to cre ate a tripwire system with a Class AB amplifier.
+
+_
+OrCad Capture, OrCad PCB Designer, Cadence Virtuoso, Xilinx ISE, Matlab, C
+Familiarity with waveform generators, spectrum analyzers, and oscilloscopes
+Coordinate workshops for undergraduate research
+Member of the Institute of Electrical and Electronic Engineers, 2010-present
+Professional Experience:
+_
+Engineering Mentor: UTSA, May-August 2011
+Duties included assisting a professor in a classroom and lab environment as well as tutoring
+students in groups and on a one -on-one basis.
+UTSA Peer Leader: UTSA, August 2011-December 2011
+Duties included assisting two professors in freshman seminar courses, aiding students in the
+overall success and transition of their first semester, and lecturing on several topics.
+Librarian Peer Coach: UTSA, January 2012-Present
+Assist students in learning how to utilize the libraries resources for research. Conduct studies of
+students study habits and resource usage.
